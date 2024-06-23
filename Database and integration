@@ -1,0 +1,10 @@
+
+Run the Server : 
+Start the Express server by running node server.js in your terminal.
+Test the Application : 
+Open index.html in a browser. Fill out the form and submit it. 
+You should see validation errors if the inputs are incorrect, or a success message if the form is successfully submitted.
+This setup provides a basic example of how to create a front-end form with validation, handle form submission using Express.js on the back-end, and store the data in an in-memory database (array).
+
+
+
